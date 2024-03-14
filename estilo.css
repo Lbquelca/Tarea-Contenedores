@@ -1,0 +1,119 @@
+body{
+    background-color:teal;
+}
+.padre{
+    background-color: teal;
+    width: 800px;
+    height: 820px;
+    margin: auto;
+    border: 10px;
+    border-style:ridge;
+    border-color: black;
+}
+.c1{
+    background-color:black;
+    width: 775px;
+    height: 250px;
+    margin: 10px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 745px;
+    grid-template-rows: 50px;
+}
+.c2{
+    background-color:black;
+    width: 775px;
+    height: 250px;
+    margin: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.c3{
+    background-color:black;
+    width: 775px;
+    height: 250px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.c1-1{
+    background-color: beige;
+    height: 70px;
+    margin: 5px;
+}
+.c1-2{
+    background-color:burlywood;
+    width: 600px;
+    height: 70px;
+    margin: 5px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.c1-3{
+    background-color: aliceblue;
+    width: 400px;
+    height: 70px;
+    margin: 5px;
+    margin-bottom: 25px;
+    margin-left: 200px;
+}
+.c2-1{
+    background-color:antiquewhite;
+    width: 150px;
+    height: 230px;
+    margin: 5px;
+}
+.c2-2{
+    background-color:aliceblue;
+    width: 400px;
+    height: 230px;
+    margin: 5px;
+}
+.c2-3{
+    background-color:antiquewhite;
+    width: 150px;
+    height: 230px;
+    margin:5px;
+}
+.c2-2-1{
+    background-color: black;
+    height: 100px;
+    width: 390px;
+    margin: 5px;
+}
+.c2-2-2{
+    background-color:aliceblue;
+    height: 100px;
+    width: 390px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+.c2c{
+    background-color:black;
+    width: 200px;
+    height: 90px;
+    margin: 10px;
+}
+.c3{
+    display: flex;
+    justify-content: space-around;
+}
+.c3-1{
+    background-color:bisque;
+    width: 200px;
+    height: 70px;
+    margin-top: 50px;
+}
+.c3-2{
+    background-color:bisque;
+    width: 200px;
+    height: 70px;
+    margin-top: 50px;
+}
+.c3-3{
+    background-color:bisque;
+    width: 200px;
+    height: 70px;
+    margin-top: 50px;
+}
